@@ -1,6 +1,8 @@
 
 个人博客
 
-[Link](/beginner-html-site-styled/index.html) and ![Image](/beginner-html-site-styled/images/firefox-icon.png) 
-[文档](/接口.pdf)
+[Link](/beginner-html-site-styled/index.html)  
+![Image](https://www.markdown.xyz/assets/images/tux.png) 
+[文档](/接口.pdf) 
+[md语法](https://www.markdown.xyz/basic-syntax/) 
 
