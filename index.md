@@ -3,6 +3,6 @@
 
 [Link](/beginner-html-site-styled/index.html)  
 ![Image](https://www.markdown.xyz/assets/images/tux.png) 
-[文档](/接口.pdf) 
+[文档](/aaa.md) 
 [md语法](https://www.markdown.xyz/basic-syntax/) 
 
