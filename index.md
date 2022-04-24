@@ -1,5 +1,5 @@
 
-个人博客
+<center>个人博客</center>
 
 [Link](/beginner-html-site-styled/index.html)  <br>
 ![Image](https://www.markdown.xyz/assets/images/tux.png)  <br>
