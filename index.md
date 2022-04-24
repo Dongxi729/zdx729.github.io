@@ -1,4 +1,3 @@
-Syntax highlighted code block
 
 # Header zdx
 ## Header zdx
